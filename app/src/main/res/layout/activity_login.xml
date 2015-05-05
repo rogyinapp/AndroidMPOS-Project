@@ -16,6 +16,7 @@
         android:id="@+id/textuser"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:hint="fdsgsdf"
         android:layout_alignParentLeft="true"
         android:layout_marginTop="50dp"
         android:text="@string/username"
